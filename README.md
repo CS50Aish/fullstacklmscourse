@@ -132,3 +132,31 @@ labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npx shadcn-ui@late
 
 labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npx shadcn-ui@latest add button --overwrite
 ✔ Done.
+
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npm install
+npm WARN deprecated glob@7.1.7: Glob versions prior to v9 are no longer supported
+
+added 6 packages, removed 4 packages, changed 14 packages, and audited 381 packages in 18s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+3 vulnerabilities (1 low, 1 moderate, 1 high)
+
+To address all issues, run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npm i
+
+up to date, audited 381 packages in 2s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+3 vulnerabilities (1 low, 1 moderate, 1 high)
+
+To address all issues, run:
+  npm audit fix --force
+
+Run `npm audit` for details.
