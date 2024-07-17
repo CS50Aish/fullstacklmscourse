@@ -127,3 +127,5 @@ labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npx shadcn-ui@late
 
 Success! Project initialization completed. You may now add components.
 
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npx shadcn-ui@latest add button
+✔ Done.
