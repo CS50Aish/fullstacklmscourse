@@ -218,3 +218,4 @@ https://nextjs.org/telemetry
 - event compiled successfully in 384 ms (212 modules)
 - wait compiling /favicon.ico/route (client and server)...
 - event compiled client and server successfully in 1210 ms (499 modules)
+
