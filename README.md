@@ -219,3 +219,30 @@ https://nextjs.org/telemetry
 - wait compiling /favicon.ico/route (client and server)...
 - event compiled client and server successfully in 1210 ms (499 modules)
 
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npm install next@^13.5.4
+
+removed 1 package, changed 6 packages, and audited 379 packages in 19s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npm install @clerk/nextjs
+
+added 24 packages, and audited 403 packages in 8s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
