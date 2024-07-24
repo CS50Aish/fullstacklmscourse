@@ -197,3 +197,24 @@ To address all issues, run:
   npm audit fix --force
 
 Run `npm audit` for details.
+
+labuser@ubuntu2204:~/Desktop/fullstacklmscourse/lms-tutorial$ npm run dev
+
+> lms-tutorial@0.1.0 dev
+> next dev
+
+- ready started server on 0.0.0.0:3000, url: http://localhost:3000
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+- event compiled client and server successfully in 357 ms (20 modules)
+- wait compiling...
+- event compiled client and server successfully in 284 ms (20 modules)
+- wait compiling /page (client and server)...
+- event compiled client and server successfully in 6s (453 modules)
+- wait compiling...
+- event compiled successfully in 384 ms (212 modules)
+- wait compiling /favicon.ico/route (client and server)...
+- event compiled client and server successfully in 1210 ms (499 modules)
